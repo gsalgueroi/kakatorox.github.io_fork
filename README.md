@@ -1,5 +1,5 @@
 # Mi Curriculum Vitae
-##Ejemplo para bootcamp de DesafioLatam
+## Ejemplo para bootcamp de DesafioLatam
 
 Tecnologias Usadas:
 - HTML5
